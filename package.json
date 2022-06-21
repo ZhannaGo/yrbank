@@ -1,0 +1,16 @@
+{
+  "name": "pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zh",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0"
+  }
+}
