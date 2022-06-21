@@ -1,1 +1,1 @@
-web: node ./alldata.js
+web: node index.js
